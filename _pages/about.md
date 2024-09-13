@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I completed my bachelor's and master's degrees in chemistry with excellent grades from top universities in Pakistan. I am currently employed as a chemistry lecturer at the Pakistan Institute of Engineering and Applied Sciences (PIEAS), a top-ranked public university in Pakistan. My professional focus revolves around teaching, conducting research, continuous learning, and effectively communicating my findings with peers and colleagues. I believe in the philosophy of converting ideas into reality and in pursuance, I have published a total of 05 research articles in reputed Q1 journals, particularly focused on nanomaterials, polymers, and polymer nanocomposites for various applications including optoelectronics, EMI shielding, energy storage, and energy conservation. In addition to the peer-reviewed articles, I have co-supervised 08 MS theses on diverse fields, including organic synthesis, catalysis, adsorption, and electrochemistry. Moreover, I have almost 4 years of research experience in polymers and nanomaterials synthesis, characterization, processing, and utilization. I also have a strong background in Python programming, specifically machine learning, modeling, and data analysis.
 
 A data-driven personal website
 ======

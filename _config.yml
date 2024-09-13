@@ -21,8 +21,8 @@ repository               : "saeed-omer/saeed-omer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/saeed_profile.png"
+  name             : "Saeed Omer"
   pronouns         : # example: "she/her"  
   bio              : "Chemistry Lecturer | Researcher"
   location         : "Islamabad, Pakistan"

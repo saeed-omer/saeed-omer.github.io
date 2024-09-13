@@ -6,6 +6,10 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+My teaching philosophy is inspired by the article titled *"Teaching Chemists to Think: From Parrots to Professionals"* by Tina L. Overton. This article motivates me to encourage students to think critically rather than merely memorizing facts. I design my classes to foster creativity and help students become skilled professionals in their field. My goal is to enable students to truly understand chemistry concepts and develop into curious and analytical thinkers.
+
+During my nearly four years of teaching and research experience, I have developed and taught the following courses:
+
 ## Undergraduate Courses
 
 ### Physical Chemistry (CY-491)

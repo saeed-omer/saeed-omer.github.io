@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a materials chemist specializing in advanced materials development (i.e., nanomaterials, polymers, metal-organic frameworks (MOFs), covalent organic frameworks (COFs) etc.) and 3D printing technologies, with a primary focus on conducting innovative research that bridges the gap between academia and industry. As a independent researcher, I have led numerous research projects, driving advancements in areas such as electrochromic nanoparticles, 2D nanomaterials, conducting polymers, and polymer nanocomposites. My work is characterized by a commitment to solving real-world challenges through cutting-edge scientific inquiry, material characterization, and process optimization.
+I am a materials chemist specializing in advanced materials development, including nanomaterials, polymers, metal-organic frameworks (MOFs), and covalent organic frameworks (COFs), as well as 3D printing technologies. My primary focus is on conducting innovative research that bridges the gap between academia and industry. As an independent researcher, I have led numerous projects, driving advancements in areas such as electrochemistry, optoelectronics, catalysis, adsorption, EMI shielding, and energy applications. My work is characterized by a commitment to solving real-world challenges through cutting-edge scientific inquiry, material characterization, and process optimization.
 
-My role as a lecturer in a public sector university has enriched my research by enabling me to guide emerging scientists in the laboratory and classroom, fostering an environment that encourages creative thinking and rigorous experimentation. This dual role has allowed me to build a strong foundation in both education and research, leveraging my experience to mentor students and lead collaborative research initiatives. My ultimate aim is to contribute to the development of sustainable, high-performance materials that address global challenges, while inspiring and equipping the next generation of scientists to pursue excellence in materials chemistry.
+In my role as a lecturer at a public sector university, I enrich my research by guiding emerging scientists in both the laboratory and the classroom. This dual role fosters an environment that encourages creative thinking and rigorous experimentation. It has allowed me to build a strong foundation in both education and research, leveraging my experience to mentor students and lead collaborative research initiatives. My ultimate aim is to contribute to the development of sustainable, high-performance materials that address global challenges while inspiring and equipping the next generation of scientists to pursue excellence in materials chemistry.
 
 # EDUCATION
 - M.S. in Chemistry, Pakistan Institute of Engineering and Applied Sciences (Jan 2019 - Nov 2020)
@@ -55,4 +55,3 @@ I have developed and taught following courses to undergraduate and masters stude
 - Chemistry of Synthetic Polymers (CY-502)
 - Surface Chemistry and Catalysis (CY-606)
 - Electrochemistry (CY-506)
-

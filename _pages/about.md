@@ -11,7 +11,11 @@ I am a materials chemist specializing in advanced materials development (i.e., n
 
 My role as a lecturer in a public sector university has enriched my research by enabling me to guide emerging scientists in the laboratory and classroom, fostering an environment that encourages creative thinking and rigorous experimentation. This dual role has allowed me to build a strong foundation in both education and research, leveraging my experience to mentor students and lead collaborative research initiatives. My ultimate aim is to contribute to the development of sustainable, high-performance materials that address global challenges, while inspiring and equipping the next generation of scientists to pursue excellence in materials chemistry.
 
-Research Highlights
+# EDUCATION
+- M.S. in Chemistry, Pakistan Institute of Engineering and Applied Sciences (Jan 2019 - Nov 2020)
+- B.S. in Chemistry, Bahauddin Zakariya University, Pakistan (Oct 2014 - Jun 2018)
+
+RESEARCH HIGHLIGHTS
 ======
 ## 1. Preparation and investigation of Montmorillonite-K10 Polyaniline nanocomposites for optoelectronic applications
 One-dimensional polyaniline (PANI) nanostructures were synthesized in situ in the presence of two-dimensional (2D) Montmorillonite (MMT) clay nanosheets. Strong interactions between the polymer and MMT platelets in the nanocomposites were confirmed through spectroscopic studies. X-ray diffraction and scanning electron microscopic studies revealed the clay’s profound effect on the polymer’s crystallinity and morphology. The clay nanosheets induced higher crystallinity and well-defined nanorod morphology in the polymer structure. Consequently, the nanocomposite showed an electrical conductivity of 8.72 S/cm, closer to that of the pristine polymer (8.97 S/cm), 
@@ -41,5 +45,14 @@ Biomaterials must be biocompatible and provide excellent mechanical strength whe
   5. Exploring the photocatalytic activity of graphitic carbon nitride and tin sulphide based heterostructure photocatalysts for environmental remediations
   6. Synthesis and characterization of metal/metal oxide decorated rGO-based additives for enhancing the EMI shielding capabilities of room temperature vulcanizing sealants
   7. Development of low-cost bio-adsorbent for removal of toxic heavy metals (Pb and Cd) from contaminated water
-  8. Synthesis of vinyl benzyl chloride and divinyl benzene-based resin for iodine remova
+  8. Synthesis of vinyl benzyl chloride and divinyl benzene-based resin for iodine removaL
+
+# TEACHING
+I have developed and taught following courses to undergraduate and masters students:
+- Physical Chemistry (CY-491)
+- Inorganic Chemistry (CY-492)
+- Analytical Chemistry (CY-494)
+- Chemistry of Synthetic Polymers (CY-502)
+- Surface Chemistry and Catalysis (CY-606)
+- Electrochemistry (CY-506)
 

@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Bio"
-author_profile: false
+title: "About Me"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I completed my bachelor's and master's degrees in chemistry with excellent grades from top universities in Pakistan. I am currently employed as a chemistry lecturer at the Pakistan Institute of Engineering and Applied Sciences (PIEAS), a top-ranked public university in Pakistan. My professional focus revolves around teaching, conducting research, continuous learning, and effectively communicating my findings with peers and colleagues. I believe in the philosophy of converting ideas into reality and in pursuance, I have published a total of 05 research articles in reputed Q1 journals, particularly focused on nanomaterials, polymers, and polymer nanocomposites for various applications including optoelectronics, EMI shielding, energy storage, and energy conservation. In addition to the peer-reviewed articles, I have co-supervised 08 MS theses on diverse fields, including organic synthesis, catalysis, adsorption, and electrochemistry. Moreover, I have almost 4 years of research experience in polymers and nanomaterials synthesis, characterization, processing, and utilization. I also have a strong background in Python programming, specifically machine learning, modeling, and data analysis.
+I completed my bachelor's and master's degrees in chemistry with excellent grades from top universities in Pakistan. I am currently employed as a chemistry lecturer at the Pakistan Institute of Engineering and Applied Sciences (PIEAS), a top-ranked public university in Pakistan. My professional focus revolves around teaching, conducting research, continuous learning, and effectively communicating my findings with peers and colleagues. I believe in the philosophy of converting ideas into reality, and in pursuance, I have published a total of 5 research articles in reputed Q1 journals, particularly focused on nanomaterials, polymers, and polymer nanocomposites for various applications, including optoelectronics, EMI shielding, energy storage, and energy conservation. In addition to the peer-reviewed articles, I have co-supervised 8 MS theses in diverse fields, including organic synthesis, catalysis, adsorption, and electrochemistry. Moreover, I have almost 4 years of research experience in polymers and nanomaterials synthesis, characterization, processing, and utilization. I also have a strong background in Python programming, specifically in machine learning, modeling, and data analysis.
 
-A data-driven personal website
+Research Projects
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 

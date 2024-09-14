@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "About Me"
+title: "Identity"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I completed my bachelor's and master's degrees in chemistry with excellent grades from top universities in Pakistan. I am currently employed as a chemistry lecturer at the Pakistan Institute of Engineering and Applied Sciences (PIEAS), a top-ranked public university in Pakistan. My professional focus revolves around teaching, conducting research, continuous learning, and effectively communicating my findings with peers and colleagues. I believe in the philosophy of converting ideas into reality, and in pursuance, I have published a total of five research articles in reputed Q1 journals, particularly focused on nanomaterials, polymers, and polymer nanocomposites for various applications, including optoelectronics, EMI shielding, energy storage, energy conservation, and biomedical applications. In addition to these peer-reviewed articles, I have co-supervised eight MS theses in diverse fields, including organic synthesis, catalysis, adsorption, and electrochemistry. Further, I also have a strong background in Python programming, specifically in machine learning, modeling, and data analysis.
+I am a materials chemist specializing in advanced materials development (i.e., nanomaterials, polymers, metal-organic frameworks (MOFs), covalent organic frameworks (COFs) etc.) and 3D printing technologies, with a primary focus on conducting innovative research that bridges the gap between academia and industry. As a independent researcher, I have led numerous research projects, driving advancements in areas such as electrochromic nanoparticles, 2D nanomaterials, conducting polymers, and polymer nanocomposites. My work is characterized by a commitment to solving real-world challenges through cutting-edge scientific inquiry, material characterization, and process optimization.
+
+My role as a lecturer in a public sector university has enriched my research by enabling me to guide emerging scientists in the laboratory and classroom, fostering an environment that encourages creative thinking and rigorous experimentation. This dual role has allowed me to build a strong foundation in both education and research, leveraging my experience to mentor students and lead collaborative research initiatives. My ultimate aim is to contribute to the development of sustainable, high-performance materials that address global challenges, while inspiring and equipping the next generation of scientists to pursue excellence in materials chemistry.
 
 Research Highlights
 ======

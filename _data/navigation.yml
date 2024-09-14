@@ -5,13 +5,13 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Teaching"
-    url: /markdown/
+  #- title: "Teaching"
+    #url: /markdown/
     
   #- title: "Publications"
     #url: /publications/
     #url: https://scholar.google.com.pk/citations?user=Jf5pI8QAAAAJ&hl=en
 
-  - title: "CV"
+  #- title: "CV"
     #url: /cv/
-    url: /files/my_cv.pdf
+   # url: /files/my_cv.pdf

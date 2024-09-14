@@ -12,21 +12,6 @@ main:
     #url: /publications/
     url: https://scholar.google.com.pk/citations?user=Jf5pI8QAAAAJ&hl=en
 
-  #- title: "Talks"
-   # url: /talks/    
-
-  #- title: "Teaching"
-   # url: /teaching/    
-    
-  #- title: "Portfolio"
-   # url: /portfolio/
-        
-  #- title: "Blog Posts"
-   # url: /year-archive/
-    
   - title: "CV"
     #url: /cv/
-     url:/files/my_cv.pdf
-    
-  #- title: "Guide"
-   # url: /markdown/
+    url: /files/my_cv.pdf

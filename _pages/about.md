@@ -14,6 +14,8 @@ In my role as a lecturer at a public sector university, I enrich my research by 
 # Education
 - M.S. in Chemistry, Pakistan Institute of Engineering and Applied Sciences (Jan 2019 - Nov 2020)
 - B.S. in Chemistry, Bahauddin Zakariya University, Pakistan (Oct 2014 - Jun 2018)
+
+# Research Highlights
 ## I. Montmorillonite-K10 Polyaniline Nanocomposites for Optoelectronic Applications
 One-dimensional polyaniline (PANI) nanostructures were synthesized in situ in the presence of two-dimensional (2D) Montmorillonite (MMT) clay nanosheets. Strong interactions between the polymer and MMT platelets in the nanocomposites were confirmed through spectroscopic studies. X-ray diffraction and scanning electron microscopic studies revealed the clay’s profound effect on the polymer’s crystallinity and morphology. The clay nanosheets induced higher crystallinity and well-defined nanorod morphology in the polymer structure. Consequently, the nanocomposite showed an electrical conductivity of 8.72 S/cm, closer to that of the pristine polymer (8.97 S/cm), 
 despite the presence of highly insulting clay material. Surprisingly, a notable decrease in the optical bandgap of the polymer from 3.73 to 2.88 eV of the nanocomposite was also observed. This novel integration of a narrow band gap and high conductivity in PANI/MMT nanocomposites can expand their utility for visible light interactions in areas encompassing photocatalysis, photovoltaics, electro/photochromism, and related technologies. [Link](https://www.cell.com/heliyon/fulltext/S2405-8440(24)03604-1)
@@ -29,7 +31,6 @@ High-purity reduced graphene oxide (RGO or rGO) with appreciable conductivity is
 
 ## IV. Development of Tungsten Trioxide Nanoparticles for Electrochemical Applications
 Tungsten trioxide (WO3) is a well-known electroactive substance that stores electrochemical energy and changes color reversibly due to redox events triggered by a certain voltage and has a wide range of uses. In this research work, thin films of WO3 were prepared using spin-coating of additive free WO3 sols. The sols were prepared from tungstic acid precursor, purified through ion-exchange method, under hydrothermal conditions. Particle size of the suspensions and phase of the thin films prepared from suspensions, were evaluated using laser particle analyzer and XRD, respectively. Cyclic voltammetry was used to conduct electrochemical behavior of the synthesized material. Thin films obtained under hydrothermal temperature of 120 ℃ possessed the optimum particle size distribution centered around 80 nm, optimum crystallite size and superior electrochemical performance. [Link](https://link.springer.com/article/10.1007/s13204-023-02790-w)
-(_Left side: Paricle Size Distribution & right side: Cyclic Voltammograms_)
 ![Tungsten Trioxide Nanoparticles](images/tungsten.PNG)
 
 ## V. Development of a Ce-doped hydroxyapatite–sodium alginate biocomposite for bone and dental implants

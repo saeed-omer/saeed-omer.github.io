@@ -55,3 +55,12 @@ I have developed and taught following courses to undergraduate and masters stude
 - Chemistry of Synthetic Polymers (CY-502)
 - Surface Chemistry and Catalysis (CY-606)
 - Electrochemistry (CY-506)
+
+# Talks
+## TEDx PIEAS: Role of Women in STEM Fields
+At TEDx PIEAS, I delivered a talk on the critical role of women in STEM fields, with a particular focus on chemistry. Highlighting both historical and contemporary contributions, I demonstrated how women have been pivotal in advancing chemical research and innovation. By addressing the persistent gender disparities and emphasizing the unique perspectives women bring to scientific problem-solving, my talk underscored the need for greater inclusion and support. Empowering women in chemistry not only fosters diversity but also drives progress in the field, making it essential to continue advocating for equitable opportunities and representation.
+![TEDx PIEAS](images/TEDx.PNG)
+
+## Greem Youth Movement Club (GYM)
+I organized and delivered a talk aimed at raising awareness and promoting the Sustainable Development Goals (SDGs) among students, with a particular focus on clean energy, water, and health. The presentation emphasized the importance of these goals in addressing global challenges and highlighted actionable steps students can take to contribute. By connecting theoretical knowledge with practical applications, I aimed to inspire and engage students in sustainability efforts, demonstrating how their involvement can drive meaningful progress in achieving these critical objectives.
+![GYM PIEAS](images/GYM.PNG)

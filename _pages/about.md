@@ -14,6 +14,7 @@ In my role as a lecturer at a public sector university, I enrich my research by 
 # Education
 - M.S. in Chemistry, Pakistan Institute of Engineering and Applied Sciences (Jan 2019 - Nov 2020)
 - B.S. in Chemistry, Bahauddin Zakariya University, Pakistan (Oct 2014 - Jun 2018)
+
 # Research Highlights
 I believe in the philosophy of converting ideas into reality, and in pursuit of this, I have published five research articles in reputed Q1 journals. Below are the key highlights of these published articles.
 ## I. Clay Polyaniline Nanocomposites for Optoelectronics Applications
